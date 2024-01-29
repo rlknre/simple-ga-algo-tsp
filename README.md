@@ -9,11 +9,17 @@ A **_terminal-based_** simulator of a **_travelling salesman problem_** that use
 - Class definitions are located in ``declarations.py``
 <br />
 
-## Requirements
+## Table of Contents
+1. [Requirements](#requirements)
+2. [How to Run](#instructions)
+3. [Functionalities](#functions)
+4. [Other Notes](#note)
+<br />
+
+## Requirements <a name="requirements"></a>
 1. Ensure that the system has Python.
     - To check if you have Python installed, type in any terminal:
       - `python`
-      - If it does not return a version number and no Python prompt is shown. Proceed to installation.
     - For installation, you may download it in any application store or through the Python website.
       - https://www.python.org/downloads/
 
@@ -31,7 +37,7 @@ A **_terminal-based_** simulator of a **_travelling salesman problem_** that use
    ```
 <br />
 
-## Running Project
+## Running Project <a name="instructions"></a>
 1. Check the ``main.py`` file and search for the variable **NUMBER_OF_PATHS**.
     - It should be found at _Line 79_.
     - Adjust the value according to your liking:
@@ -53,7 +59,7 @@ A **_terminal-based_** simulator of a **_travelling salesman problem_** that use
     - Time elapsed.
 <br />
 
-## Functionalities
+## Functionalities <a name="functions"></a>
 Here is a basic rundown of what happens during runtime:
 1. Based on the value of **NUMBER_OF_PATHS**, an undirected, weighted, adjacency matrix in the form of a **Map** class will be generated containing **City** classes.
   
@@ -78,7 +84,7 @@ Here is a basic rundown of what happens during runtime:
 - Ralph Kenneth Rea
 
 ##
-### Note
+### Note <a name="note"></a>
 - This is a lab exercise in fulfillment of the requirements in CMSC 170: Introduction to Artificial Intelligence. UPLB.
 
 [py-md-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
