@@ -85,6 +85,6 @@ Here is a basic rundown of what happens during runtime:
 
 ##
 ### Note <a name="note"></a>
-- This is a lab exercise in fulfillment of the requirements in CMSC 170: Introduction to Artificial Intelligence. UPLB.
+- This is a lab exercise in fulfillment of the requirements in UPLB.
 
 [py-md-badge]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
